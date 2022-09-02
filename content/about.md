@@ -1,7 +1,7 @@
 +++
 title = 'About me'
 date =  2022-09-02T00:00:00-04:00
-draft = true
+draft = false
 +++
 
 I'm a 4th year Computer Science student studying at the University of Waterloo. I've been fascinated with programming and robotics since high school, which prompted me to take the co-op Computer Engineering program at Waterloo initially, from which I switched to Computer Science in my second year. 
