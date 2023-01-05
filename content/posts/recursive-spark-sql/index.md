@@ -1,8 +1,8 @@
 ---
 author: "Bradley Stevanus"
 title: "Recursive Spark SQL"
-date: "2022-07-31T11:13:56-04:00"
-description: "Implementing big data algorithms inspired by recursive SQL"
+date: "2023-01-04"
+description: "Implementing iterative big data algorithms inspired by recursive SQL"
 categories: ["Big Data"]
 tags: ["Spark", "SQL", "GraphX", "Recursive"]
 draft: false
