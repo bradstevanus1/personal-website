@@ -1,9 +1,9 @@
-baseurl      = "http://bradleystevanus.com/"
+baseurl      = "https://bradleystevanus.com/"
 languageCode = "en-us"
-theme        = "hello-friend-ng"
+theme        = "PaperMod"
 
 PygmentsCodeFences = true
-PygmentsStyle = "monokai"
+PygmentsStyle = "fruity"
 
 paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
