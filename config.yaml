@@ -3,6 +3,13 @@ title: Home | bradleystevanus.com
 paginate: 5
 theme: PaperMod
 
+# Enable rendering of raw HTML in markup
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+
 # TODO: Add archive and search pages
 
 enableRobotsTXT: true
