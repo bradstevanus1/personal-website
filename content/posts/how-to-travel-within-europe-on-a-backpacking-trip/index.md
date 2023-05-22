@@ -1,7 +1,7 @@
 ---
 author: "Bradley Stevanus"
 title: "How to Travel within Europe on a Backpacking Trip"
-date: "2023-05-23"
+date: "2023-05-22"
 description: "Advice and lessons learned from my Backpacking Trip in Western Europe"
 categories: ["Traveling"]
 tags: ["Traveling", "Backpacking", "Lifestyle", "Europe", "Portugal", "Spain", "France", "Italy", "Preparation"]
