@@ -22,7 +22,7 @@ In this blog post, I'll give my thoughts on what to pack for a backpacking trip 
 
 We typically stayed in cities for 2-3 days in Airbnbs, and travelled by train with an eurail&trade; pass. We were constantly on the move, so packing light and simple is key. Let's start with the type of luggage that I brought.
 
-### What Luggage to Bring
+## What Luggage to Bring
 Ideally, you’ll want to avoid bringing a checked bag on a backpacking trip because you’ll be on the move often so wheeling a suitcase between airbnbs and train stations will be a bit of a hassle. That leaves you with one large carry-on and one personal item, which most airlines let you take on a plane at no additional cost. 
 
 The carry-on luggage should ideally be a large backpack so you don’t have to wheel it around. The personal item should be a small backpack, fanny pack, or other bag that you can keep on your back or front with one or two straps. Make sure you can also equip this bag in front of you so that you can have both your backpack on your back and your personal item on your front. 
@@ -31,7 +31,7 @@ Here are some numbers on allowable dimensions for luggage when flying with Air T
 
 ![Air Transat Baggage Dimensions](images/air-transat-baggage-dimensions.png)
 
-### Backpack
+## Backpack
 Here is the [17 inch travel backpack](https://amzn.to/3Wpc2F9) that I bought off Amazon and used. It had plenty of space for roughly 5 days of clothes and everything else I needed to pack.
 
 [![17 Inch Travel Backpack](
@@ -43,7 +43,7 @@ Here is the [17 inch travel backpack](https://amzn.to/3Wpc2F9) that I bought off
 
 ![Backpack](images/backpack.jpg)
 
-### Personal-Item Bag
+## Personal-Item Bag
 I found this sling bag at a local Marshalls which I used as my personal-item bag. When I left my backpack at the airbnbs, I'd take this bag with me on day trips.
 
 ![Personal Bag](images/personal-bag.jpg)
@@ -68,7 +68,7 @@ What things might you want to put in your new personal bag? Well, you might want
 * Sunscreen
 * Portable charger
 
-### What Belongings to Bring
+## What Belongings to Bring
 Here is everything that I brought with me on the trip, minus clothes and other things noted below:
 
 ![Belongings](images/belongings.jpg)
@@ -114,14 +114,16 @@ Other things not shown in the picture above:
 
 Notice that I didn't bring a big bulky pair of headphones. My Beats Fit Pro&trade; got the job done when it came to listening to music and podcasts, and they have noise cancellation which was very useful during the plane rides.
 
-### Bring a Wallet
+## Bring a Wallet
 I highly recommend bringing a wallet to store your cash in when travelling around Europe. Before we left, I exchanged some CAD for &euro;500 which lasted me for the 19 days we were travelling. You can also pay for things using credit (VISA or Mastercard) if it's accepted. If the currency of purchase is different than the currency of your credit card's account, then there will be a small foreign trasaction fee of 1% to 3% for conversion. [1] In my opinion this fee is small enough to where I'd sometimes purchase pasteries or make other small transactions using my credit card(s) for convenience.
 
 But, I decided not to bring a wallet to store my Euros, and instead elected to put them in a change pouch in my personal bag. I think this was a **mistake**. I comfortably spent &euro;400 before the finals days of our trip, and on the last day of the trip I managed to lose the remaining &euro;100 somehow. At one point in the afternoon I had all my bills, and then when I checked later in the evening I noticed all my bills were gone. This was after the main zipper on my personal bag had broken, but the change pouch zipper was still intact. Either a crafty pickpocket took the money, or it had fallen out in the case that I had forgotten to close the money pouch zipper. In either case, the broken main zipper on the personal bag definitely contributed to the probability that I'd lose my money. 
 
 So my advice to you is: either bring a wallet that you can store your cash in and keep it in your pocket, or store the cash in your personal bag but keep it in front of you so that it is easier to keep track of.
 
+## Conclusion
+
 Those were all my thoughts on packing for a backpacking trip in Europe. Bon voyage!
 
-# References
+## References
 [1] [https://www.valuepenguin.com/credit-card-foreign-transaction-fees](https://www.valuepenguin.com/credit-card-foreign-transaction-fees)
