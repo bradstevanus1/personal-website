@@ -17,7 +17,7 @@ In this blog post, I'll give my thoughts on what to pack for a backpacking trip 
 3. Barcelona, Spain
 4. Marseille, France
 5. Monaco
-6. La Spetzia, Italy
+6. La Spezia, Italy
 7. Rome, Italy
 
 We typically stayed in cities for 2-3 days in Airbnbs, and travelled by train with an eurail&trade; pass. We were constantly on the move, so packing light and simple is key. Let's start with the type of luggage that I brought.
